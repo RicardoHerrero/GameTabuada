@@ -1,0 +1,75 @@
+@charset "UTF-8";
+.numero {
+	font-size: 150px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #006;
+	text-align:center
+}
+.x {
+	font-size: 60px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #666;
+	text-align:center
+}
+.TxResultado{
+	font-size: 60px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #666;
+	text-align:center;
+	height:80px;
+	width:300px;
+	line-height:80px;
+	border:1px solid #09F;
+}
+.TxResultadoTRUE{
+	font-size: 60px;
+	font-style: oblique;
+	font-weight: bold;
+	color: green;
+	text-align:center;
+	height:80px;
+	width:300px;
+	line-height:80px;
+	border:1px solid green;
+}
+.TxResultadoFALSE{
+	font-size: 60px;
+	font-style: oblique;
+	font-weight: bold;
+	color: red;
+	text-align:center;
+	height:80px;
+	width:300px;
+	line-height:80px;
+	border:1px solid red;
+}
+.TxResultadoGER{
+	font-size: 60px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #CCC;
+	text-align:center;
+	height:80px;
+	width:300px;
+	line-height:80px;
+	border:1px solid red;
+}
+.DVResultadoGER{
+	font-size: 120px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #000;
+	text-align:center;
+	height:80px;
+	width:300px;
+	padding-top:20px;
+	line-height:80px;
+}
+
+.etapa{
+	font-size:20px;
+	color:#999;
+}
